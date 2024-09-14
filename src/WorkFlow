@@ -1,0 +1,8 @@
+=> Concurrency and Parallelism
+=> Program, process and thread
+=> Multithreading
+=> Multithreading in java
+Q1: Print Hello World from another thread with thread name.
+Q2: Print 1 to 100 from all different thread? What will happen if 1 Million task is need to be executed.
+Q3: Print 1 to 100 using 10 threads only.{ExecutorService and thread pool}
+=>Important terms related to Multithreading.
